@@ -4,6 +4,6 @@ body{
 p{
     font-size : 300%  ;
     background-color : powderblue ;
-
+    border : solid 2px #ccc; 
     font-family: verdana , 'Courier New', Courier, monospace;
 }
