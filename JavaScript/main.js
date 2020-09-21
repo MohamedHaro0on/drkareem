@@ -1,1 +1,2 @@
-window.alert("this is the Window.alert Functions ");
+// console.log("The Website has Loaded Successfully");
+// window.alert("Did you Open this website") ;
