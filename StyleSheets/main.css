@@ -1,4 +1,9 @@
 body{
-
     /* background-color: #ff0000;  */
+}
+p{
+    font-size : 300%  ;
+    background-color : powderblue ;
+
+    font-family: verdana , 'Courier New', Courier, monospace;
 }
